@@ -123,5 +123,5 @@ int main()
         init();
     #endif
 */
-    cout << "ashu" << endl;
+    cout << "ash1u" << endl;
 }
